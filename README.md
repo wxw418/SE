@@ -11,7 +11,7 @@ Install Python 3.9.16 for running this code. And these packages should be satisf
 * matplotlib=3.7.1
 
 # Data
-1. Ligand-receptor data is available at [uniprot](https://www.uniprot.org/), [GEO](https://www.ncbi.nlm.nih.gov/geo/).
+1. Ligand-receptor data is available at [Uniprot](https://www.uniprot.org/), [GEO](https://www.ncbi.nlm.nih.gov/geo/).
 2. Feature extraction website at [iFeature](https://ifeature.erc.monash.edu/).
 
 # Usage
